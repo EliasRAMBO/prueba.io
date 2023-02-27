@@ -1,0 +1,23 @@
+header {
+    text-align: center;
+}
+
+img {
+    border: 5px solid rgb(0, 128, 117);
+    margin: 50px;
+    padding: 30;
+}
+
+
+section {
+    text-align: center;
+}
+
+i {
+    width: 100px;
+}
+
+p.datosdel-cv {
+    text-align: center;
+    font-size: 23px;
+}
